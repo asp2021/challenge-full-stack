@@ -1,15 +1,15 @@
 # Challenge Full Stack
 ## React / NodeJS
 	
-Frontend  
+## Frontend  
 Un App cliente en React que permita enviar textos a la API y muestre las respuestas del API desde la última a la primera.
-# Webpack - Babel – Bootstrap – Axios - Docker
-## GlobalContext 
+ref: Webpack - Babel – Bootstrap – Axios - Docker
+ref: GlobalContext 
 
-Backend
+## Backend
 ApiChallenge creada en Node + Express
 Un API REST, a la cual se le envía un texto y responde con el mismo texto invertido. Y devuelve un flag true si el texto es un palindrome.
-# NodeJs – ExpressJs – Mocha – Chai – SuperTest – StandardJs – Docker
+ref NodeJs – ExpressJs – Mocha – Chai – SuperTest – StandardJs – Docker
 
 return:
 { 
