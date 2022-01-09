@@ -1,6 +1,6 @@
 # ApiChallenge creada eb Node + Express
 
-# Un API REST, a la cual se le envía un texto y responde con el mismo texto invertido.
+## Un API REST, a la cual se le envía un texto y responde con el mismo texto invertido.
 return:
 { 
    "text":"tset",
@@ -21,17 +21,17 @@ libs & frameworks utilizados
 
 ## Previamente:
 Dentro del directorio del proyecto puedes correr:
-## `npm install`
+`npm install`
 
 ## Scripts disponibles
 
 Dentro del directorio del proyecto puedes correr:
-### `npm start`
+`npm start`
 Abrir http://localhost:3000) si deseas acceder por el navegador
 
 Si lo quieres utilizar con docker 
 (IMPORTANTE: el front-end no esta configurado para usar la api con docker)
-### `docker run -it -p 4000:3000 node-challenge`
+`docker run -it -p 4000:3000 node-challenge`
 Abrir http://localhost:4000) si deseas acceder por el navegador
 
 
