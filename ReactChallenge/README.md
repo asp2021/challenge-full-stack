@@ -17,5 +17,6 @@ Dentro del directorio del proyecto puedes correr:
 
 Dentro del directorio del proyecto puedes correr:
 `npm start`
+
 Abrir http://localhost:9000) para acceder por el navegador
 
