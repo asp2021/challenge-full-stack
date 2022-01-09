@@ -1,5 +1,5 @@
-#Challenge Full Stack
-##React / NodeJS
+# Challenge Full Stack
+## React / NodeJS
 	
 Frontend  
 Un App cliente en React que permita enviar textos a la API y muestre las respuestas del API desde la última a la primera.
