@@ -11,11 +11,11 @@ libs & frameworks: utilizadas
 
 ## Previamente:
 Dentro del directorio del proyecto puedes correr:
-## `npm install`
+`npm install`
 
 ## Scripts disponibles
 
 Dentro del directorio del proyecto puedes correr:
-### `npm start`
+`npm start`
 Abrir http://localhost:9000) para acceder por el navegador
 
